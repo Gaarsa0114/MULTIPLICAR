@@ -8,7 +8,7 @@ namespace MULTIPLICAR
 {
     public class Class1
     {
-        public static long multiplicacion(long a, long b)
+        public static float multiplicacion(float a, float b)
         {
             return (a * b);
         }
